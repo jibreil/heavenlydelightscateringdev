@@ -121,7 +121,7 @@ a:hover {
 .project-name {
     margin-top: 0;
     margin-bottom: 0.1rem;
-    font-family: 'Montez', cursive;
+    font-family: 'Montez', sans-serif;
 }
 
 @media screen and (min-width: 64em) {
@@ -146,7 +146,7 @@ a:hover {
     margin-bottom: 2rem;
     font-weight: normal;
     opacity: 0.9;
-    font-family: 'Montez', cursive;
+    font-family: 'Montez', sans-serif;
 }
 
 @media screen and (min-width: 64em) {
