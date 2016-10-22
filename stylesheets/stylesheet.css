@@ -5,7 +5,7 @@
 body {
     padding: 0;
     margin: 0;
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     color: #606c71;
@@ -121,6 +121,7 @@ a:hover {
 .project-name {
     margin-top: 0;
     margin-bottom: 0.1rem;
+    font-family: 'Montez', cursive;
 }
 
 @media screen and (min-width: 64em) {
@@ -145,6 +146,7 @@ a:hover {
     margin-bottom: 2rem;
     font-weight: normal;
     opacity: 0.9;
+    font-family: 'Montez', cursive;
 }
 
 @media screen and (min-width: 64em) {
